@@ -1,0 +1,33 @@
+{
+  "name": "codmi",
+  "version": "1.0.0",
+  "description": "a lightweight api for searching information about characters, guns and also Rarities",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolfkid200444/codm.git"
+  },
+  "keywords": [
+    "call",
+    "of",
+    "duty",
+    "codm",
+    "call",
+    "of",
+    "duty",
+    "mobile",
+    "cod",
+    "phone",
+    "api",
+    "searchers"
+  ],
+  "author": "Wolfkid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wolfkid200444/codm/issues"
+  },
+  "homepage": "https://github.com/Wolfkid200444/codm#readme"
+}
